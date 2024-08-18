@@ -3,7 +3,7 @@ package main
 import (
     "log"
     "github.com/gofiber/fiber/v2"
-    "github.com/gofiber/template/html"
+    "github.com/gofiber/template/html/v2"
     "github.com/senanto/fiber-template/routes"
 )
 
